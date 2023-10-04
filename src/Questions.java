@@ -7,7 +7,7 @@ public class Questions {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("What is the Capital of Spain?");
-        String answer1 = scanner.nextLine();
+        String answer1 = input.nextLine();
 
         if (answer1.equalsIgnoreCase("madrid")){
             System.out.println("Correct");
