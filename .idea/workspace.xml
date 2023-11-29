@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da3b1f36-e886-4b17-91d0-ba89e63e8dec" name="Changes" comment="Week 2 Updated Code">
+    <list default="true" id="da3b1f36-e886-4b17-91d0-ba89e63e8dec" name="Changes" comment="Week 7* Updated Code">
+      <change afterPath="$PROJECT_DIR$/src/L11_file1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L7E2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L7E2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +62,9 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/30211023/untitled/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -81,7 +82,9 @@
       <workItem from="1694592170042" duration="5428000" />
       <workItem from="1695803684600" duration="5320000" />
       <workItem from="1696406340015" duration="642000" />
-      <workItem from="1696406995998" duration="25000" />
+      <workItem from="1696406995998" duration="6305000" />
+      <workItem from="1697012068139" duration="7066000" />
+      <workItem from="1700644078324" duration="4353000" />
     </task>
     <task id="LOCAL-00001" summary="Week 2 Updated Code">
       <option name="closed" value="true" />
@@ -99,14 +102,67 @@
       <option name="project" value="LOCAL" />
       <updated>1694601829397</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Week 2 Updated Code">
+      <option name="closed" value="true" />
+      <created>1696407327489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696407327489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Week 5 Updated Code">
+      <option name="closed" value="true" />
+      <created>1696407425225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696407425225</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Week 5 Updated Code">
+      <option name="closed" value="true" />
+      <created>1696413658302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696413658302</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Week 5 Updated Code">
+      <option name="closed" value="true" />
+      <created>1697018390520</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697018390520</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Week 7* Updated Code">
+      <option name="closed" value="true" />
+      <created>1697019251195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697019251195</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 2 Updated Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 Updated Code" />
+    <MESSAGE value="Week 5 Updated Code" />
+    <MESSAGE value="Week 7* Updated Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 7* Updated Code" />
   </component>
 </project>

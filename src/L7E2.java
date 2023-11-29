@@ -12,9 +12,9 @@ public class L7E2 {
 
     public static void questions() throws InterruptedException {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter First Number");
+        System.out.print("Enter First Number");
         int answer1=input.nextInt();
-        System.out.println("Enter Second Number");
+        System.out.print("Enter Second Number");
         int answer2=input.nextInt();
         int sum = answer1 + answer2;
         System.out.println("The Answer Is" + " " + sum);
